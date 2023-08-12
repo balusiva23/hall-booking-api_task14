@@ -3,7 +3,7 @@ Certainly! Here's a sample README file that provides an overview of the API rout
 ---
 
 # Hall Booking API
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 
 This API allows you to manage room bookings for an event hall.
 
@@ -160,7 +160,7 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
